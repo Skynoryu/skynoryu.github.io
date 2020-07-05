@@ -1,24 +1,31 @@
 ---
 layout: about
-title: About
+title: Sobre
 permalink: /about/
 ---
 
-Marat is heavily inspired by [L'Ami du peuple](https://en.wikipedia.org/wiki/L%27Ami_du_peuple), a newspaper written by [Jean-Paul Marat](https://en.wikipedia.org/wiki/Jean-Paul_Marat) during the French Revolution, and thus may not be used to promote any form of totalitarianism and should rather be used to advance democracy and revive the Age of Reason.
+O Ciclope Vesgo é um compilado de relatos colhidos por todo o território de "Reinos Esquecidos" (_Forgotten Realms*_), mais precisamente das terras de _Faerûn*_.
+Não se sabe ao certo quem é o responsável por registrar esses relatos, nem se é apenas um indivíduo ou um grupo de pessoas, pois alguns relatos possuem caligrafias diferentes apesar da mesma assinatura, assim como caligrafias semelhantes com assinaturas diferentes, isso deixa mais incerteza no ar...
 
-Marat is fully responsive, light and fast.
+... será que realmente aconteceram?...
 
-1. Adapt the \_config.yml file
-2. Replace/Delete the posts
-3. Change this page: about.md
-4. Change or add your links in the nav.yml file located in the \_data folder
-5. Replace favicon.ico in root folder
-6. Customise the 404.md page in the root directory
-7. Enlighten the masses!
+... será que foi realmente dessa forma?...
 
-Plugins:
+...
 
-Marat includes the following plugins.
+Creio que jamais teremos essa resposta. A menos que saiamos pelo reino buscando comprovar tais fatos. 
 
-* [jekyll-roman](https://github.com/paulrobertlloyd/jekyll-roman)
-* [jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag)
+Teremos essa coragem e disposição? Cada um conhece seu próprio coração.
+
+Só posso afirmar que continuaremos divulgando O Ciclope Vesgo enquanto esses relatos continuarem chegando em nossas mãos.
+Não nos responsabilizamos por nenhuma informação aqui mostrada. Nosso trabalho se resume em trazê-las a público de forma organizada e legível.
+
+Verdade parcial ou absoluta? Fonte de entretenimento ou informação? Cabe a você decidir.
+
+Boa leitura.
+
+by **Kole Tor**
+
+----
+
+_*Forgotten Realms faz referência ao mundo fantasioso descrito em Dungeons and Dragons - Marca registrada da Wizard of the Coast_  

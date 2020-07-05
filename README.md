@@ -1,6 +1,4 @@
-# Marat
-
-![Marat](https://raw.githubusercontent.com/JohnCoene/marat/master/assets/img/screenshot.png)
+# Baseado no tema Marat
 
 Revive the values of the Enlightenment with `marat`.
 
@@ -16,12 +14,3 @@ Marat is heavily inspired by [L'Ami du peuple](https://en.wikipedia.org/wiki/L%2
 6. Customise the `404.md` page in the root directory
 6. Run `bundle exec jekyll serve --watch`
 7. Enlighten the masses!
-
-> Unlike Marat's pamphlets the theme is fully responsive.
-
-Plugins:
-
-Marat includes the following plugins.
-
-* [jekyll-roman](https://github.com/paulrobertlloyd/jekyll-roman)
-* [jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag)
