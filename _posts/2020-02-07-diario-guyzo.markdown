@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Diário de Guyzo, o Necromante"
+title:  "Guyzo, o Necromante"
 author: Sepu
 category: INTRODUÇÃO
 keywords: Guyzo Teshial, Alto Elfo.
