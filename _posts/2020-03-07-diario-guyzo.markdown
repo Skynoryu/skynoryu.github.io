@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Diário de Guyzo, o Necromante"
+title:  "I. Diário de Guyzo, o Necromante"
 author: Sepu
-category: Anoiteceu, mas era dia
-keywords: Primeira Luz.
+category: PRIMEIRA LUZ
+keywords: Guyzo Teshial, Alto Elfo.
 ---
 
 Após diversos anos vagando por este mundo, em *Toril*, eu e minha esposa Roselind "*Alma Rubra*" Milnnar nos mudamos para *Neverwinter*. Agora com tempo e uma possível paz de vida pacata de estudante do arcanismo, começo a finalmente aprender os pergaminhos que consegui roubar de *Dweomercore*¹ e tudo o que tinha de anotações das aulas de quando lá estudava. Ainda me falta muito para canalizar os poderes arcanos e alguns movimentos são difíceis de dominar, mas minha missão é certa. Começo esse diário como uma forma, não só de entretenimento, mas de memorização, apesar de minha boa memória, minha longevidade élfica pode ser que cause falhas e ah... como eu gostaria de me lembrar das coisas do mundo de onde vim.
