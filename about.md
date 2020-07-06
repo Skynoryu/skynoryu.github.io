@@ -26,6 +26,6 @@ by **Kole Tor**
 
 ----
 
-_*Forgotten Realms faz referência ao mundo fantasioso descrito em Dungeons and Dragons - Marca registrada da Wizard of the Coast_
+*"O Ciclope Vesgo é um conteúdo de fã não oficial permitido sob a política de conteúdo de fãs. Não aprovado/apoiado pela Wizards. Porções do material usado são propriedade da Wizards of the Coast. ©Wizards of the Coast LLC."*
 
 [*Política de Conteúdo de Fãs da Wizards of the Coast*](https://company.wizards.com/pt-br/fancontentpolicy)
