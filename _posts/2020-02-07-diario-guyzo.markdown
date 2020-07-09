@@ -1,5 +1,6 @@
 ---
 layout: post
+comment: true
 title:  "Diário de Guyzo, o Necromante"
 author: Sepu
 category: PREFÁCIO
